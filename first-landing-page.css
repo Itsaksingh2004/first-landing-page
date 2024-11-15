@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/blue-kids-eyeglasses-colorful-background_23-2148310040.jpg?ga=GA1.1.2136385272.1729348056&semt=ais_hybrid");
+    background-size: cover;
+    height: 100vh;
+}
+
+.nav-text {
+    color: white !important;
+}
+
+.main-heading {
+    color: white;
+    font-family: Roboto;
+}
+
+.paragraph {
+    color: white;
+    font-family: Roboto;
+    line-height: 30px;
+}
+
+.button {
+    color: white;
+    font-family: Roboto;
+}
+
+.text-container {
+    margin: 30px;
+    width: 550px;
+}
